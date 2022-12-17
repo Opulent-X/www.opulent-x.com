@@ -1,1 +1,1 @@
-# www.opulent-x.com
+This webstie was created with an inspiration from http://iqonicthemes.com/themes/coinex/home-1.html
